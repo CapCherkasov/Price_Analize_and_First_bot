@@ -53,7 +53,7 @@ def collect_data():
                             "title": pc.get("title"),
                             "category": pc.get("category"),
                             "link":f'https://salomon.ru{pc.get("link")}',
-                            "price_base": pc.get("price").get("bace"),
+                            "price_base": pc.get("price").get("base"),
                             "price_sale": pc.get("price").get("sale"),
                             "discount_percent": dicount_percent
                         }

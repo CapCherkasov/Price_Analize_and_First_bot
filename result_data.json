@@ -1,1 +1,66 @@
-[]
+[
+    {
+        "title": "SENSE FLOW 2",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56477/",
+        "price_base": 9990,
+        "price_sale": 4990,
+        "discount_percent": 50
+    },
+    {
+        "title": "CROSSAMPHIBIAN SWIFT 2",
+        "category": "Водные виды спорта",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/56703/",
+        "price_base": 7990,
+        "price_sale": 3990,
+        "discount_percent": 50
+    },
+    {
+        "title": "ALPHACROSS BLAST",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/71637/",
+        "price_base": 7990,
+        "price_sale": 3990,
+        "discount_percent": 50
+    },
+    {
+        "title": "XA PRO 3D GTX",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/4174/",
+        "price_base": 11990,
+        "price_sale": 3590,
+        "discount_percent": 70
+    },
+    {
+        "title": "XA PRO 3D GTX",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/4578/",
+        "price_base": 11990,
+        "price_sale": 3590,
+        "discount_percent": 70
+    },
+    {
+        "title": "XA PRO 3D",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/4157/",
+        "price_base": 9990,
+        "price_sale": 4990,
+        "discount_percent": 50
+    },
+    {
+        "title": "TECH LITE",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/71667/",
+        "price_base": 6990,
+        "price_sale": 3490,
+        "discount_percent": 50
+    },
+    {
+        "title": "TECH LITE",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/3832/",
+        "price_base": 6990,
+        "price_sale": 3490,
+        "discount_percent": 50
+    }
+]
